@@ -5,5 +5,6 @@ A rendition of one of my childhood mobile games made in Java. I learned from my 
 A restart function is implemented for endless replay.
 
 Example screenshots:
+
 ![image](https://github.com/user-attachments/assets/8edf5336-4382-47e7-8c6b-11fa1b1d25c0)
 ![image](https://github.com/user-attachments/assets/b0e38fca-4996-48e5-907d-31e9dfe0ffe1)
